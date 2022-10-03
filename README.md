@@ -8,7 +8,7 @@ mochart(**m**usic **o**n **chart**) is a simple webpage parser that aims to retr
 
 A simple `pip` install:
 ```bash
-pip install mochart
+pip install -e .
 ```
 
 ## Example
